@@ -50,13 +50,12 @@
 ## 5. 🧩 Project Workflow
 > *แผนภาพแสดงการทำงานของระบบ (System Flow) หรือ Architecture*
 * **ลิงค์รูปภาพ:**
-[Place Diagram Here](https://drive.google.com/file/d/1H3VtoVm4hmJuSIJLTPnTwYeCOmKjyYeD/view?fbclid=IwY2xjawPIVZlleHRuA2FlbQIxMABicmlkETFvMHpkUTc4VGpzVnFUeVVEc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHmUceq_Fwtl8cy_mMQd_aQvHpNyVCYz4NE8Ra2eyIZjO6ehgXrdvNnSOEq40_aem_ps3xIpJ7d8pxMP0tyGfa4g)
+[กดดูรูปภาพ](https://drive.google.com/file/d/1H3VtoVm4hmJuSIJLTPnTwYeCOmKjyYeD/view?fbclid=IwY2xjawPIVZlleHRuA2FlbQIxMABicmlkETFvMHpkUTc4VGpzVnFUeVVEc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHmUceq_Fwtl8cy_mMQd_aQvHpNyVCYz4NE8Ra2eyIZjO6ehgXrdvNnSOEq40_aem_ps3xIpJ7d8pxMP0tyGfa4g)
 
 ## 6. 🎥 Demo / Preview
 > *คลิปแสดงตัวอย่างการทำงานเบื้องต้น*
 
 * **Video Link:** [คลิกเพื่อรับชม Video](https://drive.google.com/file/d/1_B_8sIKoeWkSDttJp9PCWb3eJtWHjoKI/view?fbclid=IwY2xjawPIVVtleHRuA2FlbQIxMABicmlkETFvMHpkUTc4VGpzVnFUeVVEc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHmUceq_Fwtl8cy_mMQd_aQvHpNyVCYz4NE8Ra2eyIZjO6ehgXrdvNnSOEq40_aem_ps3xIpJ7d8pxMP0tyGfa4g)
-* **Remark:** (หมายเหตุเพิ่มเติม ถ้ามี)
 
 ---
 
